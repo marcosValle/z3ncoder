@@ -1,7 +1,7 @@
 
 # Z3ncoder
 
-z3ncoder is a simple script made for encoding addresses using the subtraction technique described [here](https://vellosec.net/2018/08/carving-shellcode-using-restrictive-character-sets/).
+z3ncoder is a simple script made for encoding addresses using the subtraction technique described [here](https://vellosec.net/2018/08/carving-shellcode-using-restrictive-character-sets/) and the `z3` theorem solver
 
 # Install
 
